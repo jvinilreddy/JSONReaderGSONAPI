@@ -16,9 +16,9 @@ JSONReaderGSONAPI
     bash git clone git@github.com:jvinilreddy/JSONReaderGSONAPI.git
     
 ### Dependencies
-
-     JAVA SDK 7
-     Download the GSON API from [here](http://code.google.com/p/google-gson/downloads/detail?name=google-gson-2.2.4-release.zip)
+     -JAVA SDK 7
+     -Download the GSON API from [here] 
+  [here]:http://code.google.com/p/google-gson/downloads/detail?name=google-gson-2.2.4-release.zip
 
 ### Author
     jvinil
