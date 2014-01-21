@@ -24,8 +24,8 @@ public final class GoEuroJsonReader {
 	// To set the properties for this instance
 	static {
 		// Setting the Proxy Host and Port for the current instance
-		// System.setProperty("https.proxyHost", "53.88.72.33");
-		// System.setProperty("https.proxyPort", "3128");
+		// System.setProperty("https.proxyHost", "XX.XX.XX.XX");
+		// System.setProperty("https.proxyPort", "XXXX");
 
 		// Overriding the Default Hostname Verifier for the current instance to
 		// avoid security exception
